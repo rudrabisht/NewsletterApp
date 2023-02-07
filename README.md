@@ -1,0 +1,1 @@
+Newsletter App using mailchimp API.
